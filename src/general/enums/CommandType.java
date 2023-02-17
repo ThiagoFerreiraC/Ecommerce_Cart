@@ -1,6 +1,6 @@
 package general.enums;
 
-public enum CommandName {
+public enum CommandType {
     LOG_OUT,
     SWITCH_STARTER_MENU,
     SWITCH_SHOPPING_MENU,
